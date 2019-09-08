@@ -1,3 +1,7 @@
+### Mutants can submit their applications for X-Men to view.
+### Form validation doesn't really work and authentication is broken.
+### X-Men are able to view submissions without logging in.
+
 This guide is for PCs running Windows.
 
 Make sure you have the following software installed:
